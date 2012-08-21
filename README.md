@@ -4,9 +4,20 @@
 36 hours codejam on 2012-08-26 9:00 am - 08-27 9:00 pm
 
 ## Code jam 详细信息
-* 时间: **2012-08-26 9:00 am - 08-27 9:00 pm**
+* 宗旨：希望是能对我们自己的产品或服务有价值的，或对于改善我们的工作流程，提高我们的工作效率有帮助的独立产品，或一项产品功能。
+* 时间：**2012-08-26 9:00 am - 08-27 9:00 pm**
+* 建议：可以组队参加，组队不建议队伍的人数过多，推荐2-3人为一组
+* 其他：主动拉人，找资源，发挥小宇宙！挑战综合作战能力！
+
+## 奖品
+
+* 第一名: 500元现金大奖
+* 第二名: 森海塞尔 MX580
+* 第三名: 罗技M905
 
 ## 已有题目
+
+如果已定题目不感兴趣，可以在周五中午12点前，联系 @苏千 提交你的题目。
 
 ### 1. 数据异常检测工具：
 
@@ -57,3 +68,34 @@
 * HSF
 * MySQL Protocol
 * Simple raw socket
+
+
+### 4. 小饭桌终极解决方案
+
+* 基于mobile web
+* 摇一摇来组团
+* 内置周边饭馆和菜单
+* 结合lbs检测当前饭馆
+* 根据人数，预算，历史数据推荐菜单
+* 菜单实时推送至所有团员
+* 吃完了可以给菜打个分
+* 收钱了调用m.alipay.com进行收款
+
+你们会用到的资料
+
+* http://dev.w3.org/geo/api/spec-source-orientation.html
+* http://dev.w3.org/geo/api/spec-source.html
+* http://en.wikipedia.org/wiki/Collaborative_Filtering
+* http://api.dianping.com/
+
+团队组成推荐
+
+前端+后端+算法
+
+## 奖品图
+
+![http://pic5.nipic.com/20100105/11639_153349536875_2.jpg](http://pic5.nipic.com/20100105/11639_153349536875_2.jpg)
+
+![http://nfs.nodeblog.org/b/4/b4b4b24bbcca29c404a3318a968c0ecd.tiff](http://nfs.nodeblog.org/b/4/b4b4b24bbcca29c404a3318a968c0ecd.tiff)
+
+![http://nfs.nodeblog.org/4/c/4cf4cc1498cf82a921428b26ce51f6e3.tiff](http://nfs.nodeblog.org/4/c/4cf4cc1498cf82a921428b26ce51f6e3.tiff)
